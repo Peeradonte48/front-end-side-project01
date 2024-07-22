@@ -2,5 +2,5 @@ import React from "react";
 import "./possibility.css";
 
 export default function Possibility() {
-  return <div></div>;
+  return <div>Possibility</div>;
 }

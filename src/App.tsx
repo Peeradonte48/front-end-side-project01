@@ -8,12 +8,24 @@ import {
   Possibility,
   WhatGPT3,
 } from "./containers";
+import "./App.css";
 
 function App() {
   return (
-    <>
-      <h1>GPT-3</h1>
-    </>
+    <div className="App">
+      <div className="grandient__BG">
+        <Navbar />
+        <Header />
+      </div>
+
+      <Brand />
+      <WhatGPT3 />
+      <Features />
+      <Possibility />
+      <CTA />
+      <Blog />
+      <Footer />
+    </div>
   );
 }
 

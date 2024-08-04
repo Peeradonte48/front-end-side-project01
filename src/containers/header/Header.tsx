@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
-        <h1 className="gradient__text2">
+        <h1 className="gradient-text">
           Let's Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>

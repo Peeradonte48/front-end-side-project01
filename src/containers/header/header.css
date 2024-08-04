@@ -17,9 +17,9 @@
   font-size: 62px;
   line-height: 75px;
   letter-spacing: -0.04em;
-  /* color: var(--gradient-text); */
+  /* color: var(--gradient-text);
   /* global 94%+ browsers support */
-  background: var(--gradient-text2);
+  background: var(--gradient-text);
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }

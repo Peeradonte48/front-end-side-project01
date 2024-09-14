@@ -41,7 +41,6 @@ export default function Blog() {
             title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
           />
         </div>
-        <p>read full article</p>
       </div>
     </div>
   );

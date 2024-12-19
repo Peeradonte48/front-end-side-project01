@@ -13,7 +13,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <div className="grandient__BG">
+      <div className="gradient__BG">
         <Navbar />
         <Header />
       </div>

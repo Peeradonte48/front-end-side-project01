@@ -1,5 +1,5 @@
 import React from "react";
-import { Article, CTA, Navbar, Brand, Feature } from "./components";
+import { CTA, Navbar, Brand } from "./components";
 import {
   Blog,
   Features,
